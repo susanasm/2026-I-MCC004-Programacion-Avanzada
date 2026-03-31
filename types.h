@@ -3,4 +3,10 @@
 
 using T12 = double;
 
-#endif
+using T1 = int;
+using T16 = double;
+
+using U1 =  unsigned int;
+
+using T_ABS = double;
+#endif // __TYPES_H__
