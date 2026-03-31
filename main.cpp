@@ -69,6 +69,10 @@ int main() {
     // 14 Tellez Heredia Jhon <phyjhon@gmail.com>,
 
     // 15 Vilca Aguilar Luis Angel <luisangelvilca2@gmail.com>,
+    // Factorial
+    int n = 6;
+    int res = fact(n);
+    cout << "Luis Vilca: " << res << endl;
 
     // 16 Vinatea Chávez Camilo Jorge <camo2391@gmail.com>
     float x16 = 3.14, y16 = 2.71;
