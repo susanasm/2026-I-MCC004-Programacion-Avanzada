@@ -6,6 +6,9 @@ int suma(int x, int y) {
 }
 
 // 1 Alvarez Cadillo, Michell Adrian <<michell.aac.1106@gmail.com>,
+int resta(int x, int y) {
+    return x - y;
+}
 
 // 2 Bernaola Gayoso César Raúl <bernaolacesar@gmail.com>,
 
