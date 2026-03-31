@@ -1,5 +1,5 @@
 #include "util.h"
-
+#include "types.h" 
 // 0. Ernesto Cuadros <ecuadros@spc.org.pe>
 int suma(int x, int y) {
     return x + y;
@@ -46,7 +46,7 @@ int exponencial(int x, int y) {
 // 11 Oscar Toledo Guerrero <tgoscar@gmail.com>
 
 // 12 Quispe Calloapaza, David Saul <quispedavid987@gmail.com>
-double Promedio(double x0, double y0) {
+T12 Promedio(T12 x0, T12 y0) {
     return (x0 + y0) / 2.;
 }
 
